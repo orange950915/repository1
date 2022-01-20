@@ -1,2 +1,4 @@
 hello git
 bye bye git
+i Love you
+hadoop hive
